@@ -1,0 +1,23 @@
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.exe.config
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.exe
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\bin\Debug\RecoilTime.pdb
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csprojAssemblyReference.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.MainForm.resources
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.Properties.Resources.resources
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.GenerateResource.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.exe
+C:\Users\Samuel Tulach\Desktop\RecoilTime\RecoilTime\RecoilTime\obj\Debug\RecoilTime.pdb
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.AssemblyReference.cache
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.MainForm.resources
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.Properties.Resources.resources
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.GenerateResource.cache
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.CoreCompileInputs.cache
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\bin\Debug\No Recoil.exe.config
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\bin\Debug\No Recoil.exe
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\bin\Debug\No Recoil.pdb
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\bin\Debug\RelyUI.dll
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\RecoilTime.csproj.CopyComplete
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\No Recoil.exe
+C:\Users\macpr\Desktop\RecoilTime-master\RecoilTime\RecoilTime\obj\Debug\No Recoil.pdb
